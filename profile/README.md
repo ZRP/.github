@@ -1,21 +1,21 @@
-## Olá, Hello 👋
+## Hello, Olá 👋
 
-Se você chegou até aqui, você já deve ter ouvido falar sobre a ZRP, trabalha aqui, viu algum dos nossos artigos ou posts, ou se interessou pela nossa empresa...
+If you've come this far, you've probably heard about ZRP, work here, seen one of our articles or posts, or got interested in our company...
 
-Não!? 👀 Então deixa eu te contar um pouco mais...
+No!? 👀 So let me tell you more...
 
-A ZRP é uma consultoria de tecnologia focada na conceitualização, desenvolvimento, criação, e tudo + que envolve produtos digitais, sejam eles para uso interno dentro dos nossos clientes, ou para vender para pessoas como você, eu, e tantas outras (os tais dos produtos B2C).
+ZRP is a tech consultancy focused on design, development, creation, and everything else that involves digital products, whether they're for internal use within our clients, or they sell a service to people like you, me, and many others (those B2C products).
 
-Dentro disso temos uma gama infinita de setores e tipos produtos, técnicas, e coisas legais que sabemos fazer, então vamos colocar tudo no mesmo conjunto. A ZRP já trabalhou desenvolvendo / com SaaS, PaaS, sistemas de tomada de decisão, sites e e-commerces, blogs, aplicativos, machine-learning e IA, big-data, e +, em setores como aluguel de carros, fintechs, edtechs, petcare, legaltech, e muitos outros *tech, então se você trabalha aqui, você vai ver muitos repositórios.
+Within our history we've worked on a infinite range of sectors and types of products, techniques, and cool things, so let's put everything together. ZRP has worked developing / with SaaS, PaaS, decision-making systems, websites and e-commerces, blogs, mobile apps, machine-learning and IA, big-data, and more, in sectors such as: car rental, finance, education, petcare, legal, and many others, so if you work here, you'll see a lot of repositories.
 
-Se você não trabalha aqui, continua lendo pra ver coisas relevantes pra você:
+If you don't work here, these next topics might interest you.
 
-## 🙋‍♀️ Quer trabalhar com a ZRP?
+## 🙋‍♀️ Wan't to work with us?
 
-É bem simples, independente do seu nível e tempo na carreira, se você trabalha com tecnologia, tem vontade de aprender, e quer ser um zrpenho(a), manda o seu currículo pro nosso RH, eles vão te responder o quanto antes sobre vagas, fit cultural, processos atuais, entre outras coisas. Qualquer dúvida é só mandar um e-mail pra rh@zrp.com.br que eles respondem.
+It's pretty simple, regardless of your skill level, if you work in tech, wants to learn, and wants to be a "zrpenho(a)", send your resume to our HR, they will answer you as soon as possible about open positions, our culture, ongoing selections, among other things. If you have any questions just send an email to hr@zrp.com.br and they'll reply to you shortly.
 
-## 🌈 Contribuindo nos repositórios
+## 🌈 Contributors Guidelines
 
-Se você ver um repositório público, sinta-se a vontade para contribuir com ele. Os guidelines de contribuição são melhor detalhados a nível de projeto, pelas pessoas que cuidam dele.
+If you see a public repository, feel free to contribute to it. Contribution guidelines are best detailed at the project level, by the people who take care of it.
 
 [Leia este README em pt-BR](./pt-BR.md).

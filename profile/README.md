@@ -18,4 +18,4 @@ It's pretty simple, regardless of your skill level, if you work in tech, wants t
 
 If you see a public repository, feel free to contribute to it. Contribution guidelines are best detailed at the project level, by the people who take care of it.
 
-[Leia este README em pt-BR](https://github.com/zrp/.github/profile/pt-BR.md).
+[Leia este README em pt-BR](https://github.com/zrp/.github/blob/main/profile/pt-BR.md).

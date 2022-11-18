@@ -6,7 +6,7 @@ No!? 👀 So let me tell you more...
 
 ZRP is a tech consultancy focused on design, development, creation, and everything else that involves digital products, whether they're for internal use within our clients, or they sell a service to people like you, me, and many others (those B2C products).
 
-Within our history we've worked on a infinite range of sectors and types of products, techniques, and cool things, so let's put everything together. ZRP has worked or developing SaaS, PaaS, decision-making systems, websites and e-commerces, blogs, mobile apps, machine-learning and IA, big-data, and more, in sectors such as: car rental, finance, education, petcare, legal, and many others, so if you work here, you'll see a lot of repositories.
+Within our history we've worked on a infinite range of sectors and types of products, techniques, and cool things, so let's put everything together. ZRP has worked with SaaS, PaaS, decision-making systems, websites and e-commerces, blogs, mobile apps, machine-learning and IA, big-data, and more, in sectors such as: car rental, finance, education, petcare, legal, and many others, so if you work here, you'll see a lot of repositories.
 
 If you don't work here, these next topics might interest you.
 
